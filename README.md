@@ -35,15 +35,11 @@
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/sohail455/github-readme-streak-stats">
-    <img 
-      title="🔥 Get streak stats for your profile at git.io/streak-stats"
-      alt="Sohail's streak"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=sohail455&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"
-    />
-  </a>
-</div>
+ ## <img alt="coding" width="60" height="60" src="https://i.postimg.cc/g2K85JqQ/Connection.gif"> Connect with me :
+<a href="https://www.linkedin.com/in/abdulrahman--yasser/" target="blank"><img align="center" src="https://i.postimg.cc/DzBwjjG5/Linkedin.gif" alt="Abdulrahman-Yasser/" height="80" width="80" /></a>
+<a href="https://discordapp.com/channels/@me/Abdulrahman-Yasser#7967" target="blank"><img align="center" src="https://i.postimg.cc/FFq8byYS/Discord.gif" alt="Abdulrahman-Yasser#7967" height="80" width="80" /></a>
+
+<br> <br>
 
 
 ## <img alt="coding" width="60" height="60" src="https://i.postimg.cc/3r6s4rGs/Growth-Chart.gif"> My Github Stats :
