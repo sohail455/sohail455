@@ -13,6 +13,8 @@
   </a>
 
   <br><br>
+  <br><br>
+  <br><br>
 
   <!-- Social Links -->
 <a href="https://www.linkedin.com/in/sohailtalaat">
@@ -42,3 +44,13 @@
     />
   </a>
 </div>
+
+
+## <img alt="coding" width="60" height="60" src="https://i.postimg.cc/3r6s4rGs/Growth-Chart.gif"> My Github Stats :
+<p>
+    <div align="center">
+<a href="https://github.com/Abdulrahman-Yasser/github-readme-stats"><img alt="Abdulrahman-Yasser's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abdulrahman-Yasser&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/Abdulrahman-Yasser/github-readme-stats"><img alt="Abdulrahman-Yasser's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman-Yasser&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+</div>
+  
+<br/>
