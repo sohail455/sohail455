@@ -13,7 +13,7 @@
   </a>
 
  
-
+  <br/>
   <!-- Social Links -->
 <a href="https://www.linkedin.com/in/sohailtalaat">
   <img src="https://img.shields.io/badge/LinkedIn-%20-blue?logo=Linkedin&logoColor=blue&labelColor=black"/>
@@ -24,7 +24,7 @@
 </a>
 
  
-  <br>
+  <br/>
 
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=Sohail&style=flat-square&color=blue" alt=""/>
@@ -42,7 +42,7 @@
     </a>
 </div>
 
-<br/>
+  <br/>
 
 ## <img alt="coding" width="60" height="60" src="https://i.postimg.cc/3r6s4rGs/Growth-Chart.gif"> My Github Stats :
 <p>
