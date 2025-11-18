@@ -9,7 +9,7 @@
 
   <!-- GitHub Follow -->
   <a href="https://github.com/Sohail">
-    <img src="https://img.shields.io/github/followers/Sohail?label=Follow%20Me&style=social"/>
+    <img src="https://img.shields.io/github/followers/sohail455?label=Follow%20Me&style=social"/>
   </a>
 
   <br><br>
