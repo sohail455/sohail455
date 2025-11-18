@@ -17,6 +17,10 @@
   <!-- Social Links -->
 <a href="https://www.linkedin.com/in/sohailtalaat">
   <img src="https://img.shields.io/badge/LinkedIn-%20-blue?logo=Linkedin&logoColor=blue&labelColor=black"/>
+  <a href="https://leetcode.com/u/sohailtalat455/">
+  <img src="https://img.shields.io/badge/LeetCode-%20-yellow?logo=LeetCode&logoColor=yellow&labelColor=black"/>
+</a>
+
 </a>
 
  
