@@ -39,8 +39,8 @@
 </div>
  -->
  <div align="center">
-    <a href="https://github.com/Abdulrahman-Yasser/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abdulrahman-Yasser's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulrahman-Yasser&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
+    <a href="https://github.com/sohail455/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sohail455's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sohail455&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
     </a>
 </div>
 
@@ -49,15 +49,15 @@
 ## <img alt="coding" width="60" height="60" src="https://i.postimg.cc/3r6s4rGs/Growth-Chart.gif"> My Github Stats :
 <p>
     <div align="center">
-<a href="https://github.com/Abdulrahman-Yasser/github-readme-stats"><img alt="Abdulrahman-Yasser's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abdulrahman-Yasser&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/Abdulrahman-Yasser/github-readme-stats"><img alt="Abdulrahman-Yasser's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman-Yasser&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/sohail455/github-readme-stats"><img alt="sohail455's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sohail455&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/sohail455/github-readme-stats"><img alt="sohail455's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohail455&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </div>
   
 <br/>
 
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abdulrahman-Yasser&theme=github_dark"/>
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Abdulrahman-Yasser&theme=github_dark&utcOffset=8"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sohail455&theme=github_dark"/>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sohail455&theme=github_dark&utcOffset=8"/>
 </div>
 
 <br/>
@@ -65,7 +65,7 @@
 <br/>
 
  ## <img alt="coding" width="60" height="60" src="https://i.postimg.cc/g2K85JqQ/Connection.gif"> Connect with me :
-<a href="https://www.linkedin.com/in/abdulrahman--yasser/" target="blank"><img align="center" src="https://i.postimg.cc/DzBwjjG5/Linkedin.gif" alt="Abdulrahman-Yasser/" height="80" width="80" /></a>
-<a href="https://discordapp.com/channels/@me/Abdulrahman-Yasser#7967" target="blank"><img align="center" src="https://i.postimg.cc/FFq8byYS/Discord.gif" alt="Abdulrahman-Yasser#7967" height="80" width="80" /></a>
+<a href="https://www.linkedin.com/in/sohail455/" target="blank"><img align="center" src="https://i.postimg.cc/DzBwjjG5/Linkedin.gif" alt="sohail455/" height="80" width="80" /></a>
+<a href="https://discordapp.com/channels/@me/sohail455#7967" target="blank"><img align="center" src="https://i.postimg.cc/FFq8byYS/Discord.gif" alt="sohail455#7967" height="80" width="80" /></a>
 
 <br> <br>
