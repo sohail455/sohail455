@@ -1,16 +1,45 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-<!--
-**sohail455/sohail455** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align='center'>
+  📝 <b><i>Feel free to contact me. I am always here ...</i></b>
 
-Here are some ideas to get you started:
+  <br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- GitHub Follow -->
+  <a href="https://github.com/Sohail">
+    <img src="https://img.shields.io/github/followers/Sohail?label=Follow%20Me&style=social"/>
+  </a>
+
+  <br><br>
+
+  <!-- Social Links -->
+<a href="https://www.linkedin.com/in/sohailtalaat">
+  <img src="https://img.shields.io/badge/LinkedIn-%20-blue?logo=Linkedin&logoColor=blue&labelColor=black"/>
+</a>
+
+ 
+  <br>
+
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=Sohail&style=flat-square&color=blue" alt=""/>
+</div>
+
+<div>
+  <img src="https://media.giphy.com/media/tquRk3SuBLtPq/giphy.gif" width="300" height="300"/>
+  <img src="https://media.giphy.com/media/of43wZ8LZYPGhLeXh7/giphy-downsized.gif" width="300" height="300"/>
+  <img src="https://media.giphy.com/media/difNky6Cp4Rztw8PSd/giphy.gif" width="300" height="300"/>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/Sohail/github-readme-streak-stats">
+    <img 
+      title="🔥 Get streak stats for your profile at git.io/streak-stats"
+      alt="Sohail's streak"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Sohail&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"
+    />
+  </a>
+</div>
