@@ -34,7 +34,7 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/Sohail/github-readme-streak-stats">
+  <a href="https://github.com/sohail455/github-readme-streak-stats">
     <img 
       title="🔥 Get streak stats for your profile at git.io/streak-stats"
       alt="Sohail's streak"
