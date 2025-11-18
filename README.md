@@ -12,9 +12,7 @@
     <img src="https://img.shields.io/github/followers/sohail455?label=Follow%20Me&style=social"/>
   </a>
 
-  <br><br>
-  <br><br>
-  <br><br>
+ 
 
   <!-- Social Links -->
 <a href="https://www.linkedin.com/in/sohailtalaat">
