@@ -13,7 +13,7 @@
   </a>
 
  
-   <br/>  <br/>  <br/>
+   <br/>  <br/>   
   <!-- Social Links -->
 <a href="https://www.linkedin.com/in/sohailtalaat">
   <img src="https://img.shields.io/badge/LinkedIn-%20-blue?logo=Linkedin&logoColor=blue&labelColor=black"/>
@@ -23,8 +23,7 @@
 
 </a>
 
- 
-  <br/>
+<br/>  <br/>
 
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=Sohail&style=flat-square&color=blue" alt=""/>
