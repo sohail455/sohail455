@@ -25,12 +25,7 @@
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=Sohail&style=flat-square&color=blue" alt=""/>
 </div>
-
-<div>
-  <img src="https://media.giphy.com/media/tquRk3SuBLtPq/giphy.gif" width="300" height="300"/>
-  <img src="https://media.giphy.com/media/of43wZ8LZYPGhLeXh7/giphy-downsized.gif" width="300" height="300"/>
-  <img src="https://media.giphy.com/media/difNky6Cp4Rztw8PSd/giphy.gif" width="300" height="300"/>
-</div>
+ 
 
 <br>
 
