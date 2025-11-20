@@ -36,11 +36,14 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman-Yasser&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
  -->
- <div align="center">
-    <a href="https://github.com/sohail455/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sohail455's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sohail455&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
+<div align="center">
+    <a href="https://github.com/sohail455">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats"
+             alt="sohail455's streak"
+             src="https://github-readme-streak-stats.herokuapp.com/?user=sohail455&theme=black-ice&hide_border=true&stroke=0000&background=0D1117"/>
     </a>
 </div>
+
 
   <br/>
 
