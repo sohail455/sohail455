@@ -4,7 +4,7 @@
 </div>
 
 <div align='center'>
-  📝 <b><i>You can reach out to me anytime ...</i></b>
+  📝 <b><i>reach out to me anytime ...</i></b>
 
   <br><br>
 
